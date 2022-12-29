@@ -1,0 +1,27 @@
+body {
+	background-color: lightblue;
+	color: blue;
+}
+
+h1 {
+	color: black;
+}
+
+h2 {
+	background: green;
+	color: white;
+	padding: 5px;
+}
+
+.formula {
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.definition {
+	border-style: solid;
+	border-width: 1px;
+	padding: 10px;
+	border-color: blue;
+}
