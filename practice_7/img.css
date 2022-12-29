@@ -1,0 +1,19 @@
+body {
+	background-image: url('back.jpg');
+	color: white;
+}
+
+.name {
+	font-style: italic;
+	font-weight: bold;
+	color: blue;
+}
+
+.img_right {
+	float: right;
+}
+
+.img_left {
+	float: left;
+	padding-right: 10px;
+}
